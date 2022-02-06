@@ -7,10 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Use 
-php artisan migrate
-php artisan db:seed
-php artisan serve
+## Use these three commands to run
+## php artisan migrate
+## php artisan db:seed
+## php artisan serve
 
 ## About Laravel
 
